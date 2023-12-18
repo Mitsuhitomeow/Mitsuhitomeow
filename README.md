@@ -9,7 +9,7 @@
 <p align="center">MY TECH SKILLS</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,html,css,js,react,nodejs,webpack,vite,github&perline=5" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,html,css,js,php,react,nodejs,webpack,vite,github&perline=6" />
   </a>
 </p>
 
