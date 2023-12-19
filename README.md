@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Alexey</h1> 
+<img src="/header.png">
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -11,6 +11,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,html,css,js,ts,php,react,nodejs,webpack,vite,github&perline=4" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mitsuhitomeow&show_icons=true&theme=synthwave">
 </p>
 
 <p align="center">
