@@ -14,6 +14,12 @@
 </p>
 
 <p align="center">
+  <a href="https://git.io/streak-stats">    
+    <img src="https://streak-stats.demolab.com/?user=mitsuhitomeow&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mitsuhitomeow&show_icons=true&theme=synthwave">
 </p>
 
